@@ -1,0 +1,21 @@
+2026-04-26 21:31:16,658  INFO      Sequences ensured.
+2026-04-26 21:31:16,692  INFO      dim_client loaded: 1000 rows
+2026-04-26 21:31:16,697  INFO      dim_event loaded: 1 rows
+2026-04-26 21:31:16,700  INFO      dim_location loaded: 1 rows
+2026-04-26 21:31:16,703  INFO      dim_sponsor loaded: 1 rows
+2026-04-26 21:31:16,711  INFO      fact_race_result loaded: 0 rows
+2026-04-26 21:31:16,711  INFO      Gold layer loaded successfully
+2026-04-26 21:33:38,922  INFO      Sequences ensured.
+2026-04-26 21:33:38,961  INFO      dim_client loaded: 1000 rows
+2026-04-26 21:33:38,965  INFO      dim_event loaded: 1 rows
+2026-04-26 21:33:38,969  INFO      dim_location loaded: 1 rows
+2026-04-26 21:33:38,971  INFO      dim_sponsor loaded: 1 rows
+2026-04-26 21:33:38,977  INFO      fact_race_result loaded: 0 rows
+2026-04-26 21:33:38,978  INFO      Gold layer loaded successfully
+2026-04-26 21:37:44,197  INFO      Sequences ensured.
+2026-04-26 21:37:44,230  INFO      dim_client loaded: 1000 rows
+2026-04-26 21:37:44,236  INFO      dim_event loaded: 1 rows
+2026-04-26 21:37:44,240  INFO      dim_location loaded: 1 rows
+2026-04-26 21:37:44,244  INFO      dim_sponsor loaded: 1 rows
+2026-04-26 21:37:44,283  INFO      fact_race_result loaded: 1000 rows
+2026-04-26 21:37:44,285  INFO      Gold layer loaded successfully
